@@ -6,3 +6,4 @@ These adapters are licensed under GPL v3 (and therefor can be sold as long as
 the source code is provided when asked, or include when sold).
 
 Copyright by Pär Moberg
+https://github.com/MrSVCD/LazarustormFanAdapter/
