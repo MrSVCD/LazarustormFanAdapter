@@ -19,6 +19,10 @@ If either of the Tall versions of the fan adapter is used in SD card fan
 position it is considerably harder to change the SD card but the result is a 
 more compact package over all.
 
+## Printing
+All prints should be able to be printed without need for supports in the
+orientation the prints are in the files.
+
 ## Building
 The Build.sh script requires bash and OpenSCAD.
 
