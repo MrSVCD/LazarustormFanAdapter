@@ -15,5 +15,5 @@ position where the SD card cutout is becaouse of space constraints.
 "Tall Side.stl" works in both fan positions.
 
 If either of the Tall versions of the fan adapter is used in SD card fan 
-position it is considrable harder to change the SD card but is a more compact
-package over all.
+position it is considrable harder to change the SD card but the result is a more
+compact package over all.
