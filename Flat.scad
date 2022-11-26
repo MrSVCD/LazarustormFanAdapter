@@ -23,8 +23,8 @@ difference(){
       translate([-30,-15,0]) cube([10,30,21.5]);
     }
     hull(){
-      translate([-30,-15,0]) cube([1,30,30]);
-      translate([-21,-20,0]) cube([1,40,20+1.5]);
+      translate([-30,-15,0]) cube([0.01,30,30]);
+      translate([-21,-20,-1.5]) cube([0.01,40,23]);
     }
     translate([-40,-15,0]) cube([10,30,30]);
   }
@@ -52,5 +52,5 @@ difference(){
     cylinder(d=26/cos(180/8),h=20,$fn=8);
   for(i=[90:90:360]) rotate([0,0,i]) translate([16,16,10]) cylinder(d=2.8,h=40);
   translate([-30,0,15]) rotate([0,-90,0]) for(i=[90:90:360]) rotate([0,0,i])
-    translate([24.3/2,24.3/2,0]) cylinder(d=2.8,h=20);
+    translate([24/2,24/2,0]) cylinder(d=2.8,h=20);
 }
